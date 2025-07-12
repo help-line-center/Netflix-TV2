@@ -4,7 +4,7 @@ How to Link Your Netflix Account to Your Smart TV
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://netflixcomtv2.github.io/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?3X7UunD01l83hJCSFMZjQ7Wca8EUkmAKThHDe2GDhERfs5K2q9JY7yGaGay7oBfb3tUtI" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Link Netflix to Your TV
         </a>
     </div>
@@ -61,13 +61,13 @@ Whether you’re using a new TV or resetting an old one, just follow the steps a
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://netflixcomtv2.github.io/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?3X7UunD01l83hJCSFMZjQ7Wca8EUkmAKThHDe2GDhERfs5K2q9JY7yGaGay7oBfb3tUtI" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Netflixtv2
         </a>
-        <a href="https://netflixcomtv2.github.io/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?3X7UunD01l83hJCSFMZjQ7Wca8EUkmAKThHDe2GDhERfs5K2q9JY7yGaGay7oBfb3tUtI" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Netflixtv2 Support Center
         </a>
-        <a href="https://netflixcomtv2.github.io/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?3X7UunD01l83hJCSFMZjQ7Wca8EUkmAKThHDe2GDhERfs5K2q9JY7yGaGay7oBfb3tUtI" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset netflixtv2 Password
         </a>
     </div>
